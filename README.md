@@ -1,6 +1,6 @@
 ## Alternative Kindle Fonts
 
-[Download](https://gitlab.com/gmask/alternative-kindle-fonts/archive/v1.0.zip)
+[Download](https://gitlab.com/gmask/alternative-kindle-fonts/-/archive/master/alternative-kindle-fonts-master.zip)
 
 Tested on firmware **3.2.1** and **Kindle Keyboard**. The fonts should work fine on any jailbroken Kindle, but I have only tested them on the Kindle 3 Wi-Fi.
 
