@@ -1,24 +1,24 @@
 ## Alternative Kindle Fonts
 
-[Download](https://github.com/gmask/alternative-kindle-fonts/archive/v1.0.zip)
+[Download](https://gitlab.com/gmask/alternative-kindle-fonts/archive/v1.0.zip)
 
 Tested on firmware **3.2.1** and **Kindle Keyboard**. The fonts should work fine on any jailbroken Kindle, but I have only tested them on the Kindle 3 Wi-Fi.
 
 I tried to get the Georgia2 fonts from a previous jailbreak to work but I had all sorts of problems with the Kindle locking up and not being able to enter the settings screen, so I decided to edit the font myself. In the process I edited several other fonts. The archive contains bolder, more legible versions of them:
 
 #### The Fonts
-- [Bembo](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/bembo.gif) (Serif)
-- [Constantia](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/constantia.gif) (Serif)
-- [Droid Serif](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/droidserif.gif) (Serif)
-- [Georgia](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/georgia.gif) (Serif)
-- [Georgia2](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/georgia2.gif) (Serif)
-- [ITC New Baskerville](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/baskerville.gif) (Serif)
-- [Linux Biolinum](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/biolinum.gif) (Sans-serif)
-- [Linux Libertine](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/libertine.gif) (Serif)
-- [Miller](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/miller.gif) (Serif)
-- [Minion Pro](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/minionpro.gif) (Serif)
-- [Palatino](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/palatino.gif) (Serif)
-- [Times New Roman](https://github.com/gmask/alternative-kindle-fonts/blob/master/screenshots/timesnewroman.gif) (Serif)
+- [Bembo](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/bembo.gif) (Serif)
+- [Constantia](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/constantia.gif) (Serif)
+- [Droid Serif](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/droidserif.gif) (Serif)
+- [Georgia](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/georgia.gif) (Serif)
+- [Georgia2](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/georgia2.gif) (Serif)
+- [ITC New Baskerville](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/baskerville.gif) (Serif)
+- [Linux Biolinum](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/biolinum.gif) (Sans-serif)
+- [Linux Libertine](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/libertine.gif) (Serif)
+- [Miller](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/miller.gif) (Serif)
+- [Minion Pro](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/minionpro.gif) (Serif)
+- [Palatino](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/palatino.gif) (Serif)
+- [Times New Roman](https://gitlab.com/gmask/alternative-kindle-fonts/blob/master/screenshots/timesnewroman.gif) (Serif)
 
 #### Prerequisites
 1.  Your jailbroken Kindle 3 Keyboard: follow the steps found [here](http://yifan.lu/p/kindle-jailbreak) to jailbreak.
